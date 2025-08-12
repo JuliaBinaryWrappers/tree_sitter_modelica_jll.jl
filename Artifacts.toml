@@ -1,0 +1,160 @@
+[[tree_sitter_modelica]]
+arch = "aarch64"
+git-tree-sha1 = "0a755309629f753e00d5f33cc1cbe75eb1a05277"
+os = "macos"
+
+    [[tree_sitter_modelica.download]]
+    sha256 = "63b0edb4e87bf7d76099654a02149935d6a2e63464424ef801eda55de218ed3f"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_modelica_jll.jl/releases/download/tree_sitter_modelica-v0.1.0+0/tree_sitter_modelica.v0.1.0.aarch64-apple-darwin.tar.gz"
+[[tree_sitter_modelica]]
+arch = "aarch64"
+git-tree-sha1 = "78ab6b6e0a3ae375bd9e648b917ac27f51ea329a"
+libc = "glibc"
+os = "linux"
+
+    [[tree_sitter_modelica.download]]
+    sha256 = "194cb64226a9395aaa085810067a394b637fb956100ad6dced46af054f982bff"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_modelica_jll.jl/releases/download/tree_sitter_modelica-v0.1.0+0/tree_sitter_modelica.v0.1.0.aarch64-linux-gnu.tar.gz"
+[[tree_sitter_modelica]]
+arch = "aarch64"
+git-tree-sha1 = "840bc20a715314dae05531625f9d7570f3ed2dc4"
+libc = "musl"
+os = "linux"
+
+    [[tree_sitter_modelica.download]]
+    sha256 = "96e116e895176006f5d6a4fbd79a49da735f4abd5b5e9a79c59a8b8be331469b"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_modelica_jll.jl/releases/download/tree_sitter_modelica-v0.1.0+0/tree_sitter_modelica.v0.1.0.aarch64-linux-musl.tar.gz"
+[[tree_sitter_modelica]]
+arch = "aarch64"
+git-tree-sha1 = "1a37229dea4ce40363cf03d0468c5b74e17d5413"
+os = "freebsd"
+
+    [[tree_sitter_modelica.download]]
+    sha256 = "058366a88c4e82d655b54ad611a8b61aa8f8afb23a8e4b620584e273f5d9ac9b"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_modelica_jll.jl/releases/download/tree_sitter_modelica-v0.1.0+0/tree_sitter_modelica.v0.1.0.aarch64-unknown-freebsd.tar.gz"
+[[tree_sitter_modelica]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "dd358feae34fd430e57b73119054ebb8f26e2654"
+libc = "glibc"
+os = "linux"
+
+    [[tree_sitter_modelica.download]]
+    sha256 = "e0c6062622ed458f7bcf7d8cd71afff24e1466cb883783cd5c55064724a4bb37"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_modelica_jll.jl/releases/download/tree_sitter_modelica-v0.1.0+0/tree_sitter_modelica.v0.1.0.armv6l-linux-gnueabihf.tar.gz"
+[[tree_sitter_modelica]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "00619461df906dd46fc59d491d1966634f700077"
+libc = "musl"
+os = "linux"
+
+    [[tree_sitter_modelica.download]]
+    sha256 = "726dbb4731c62b201a8510f1998513af9cea7f6e198e3f39b2c4d1dd405ad186"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_modelica_jll.jl/releases/download/tree_sitter_modelica-v0.1.0+0/tree_sitter_modelica.v0.1.0.armv6l-linux-musleabihf.tar.gz"
+[[tree_sitter_modelica]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "cdb3fdb771dd5c054f2796c9ea628181f76d7ee7"
+libc = "glibc"
+os = "linux"
+
+    [[tree_sitter_modelica.download]]
+    sha256 = "08757568bc56d044e85935856636f5ff391e8c1a5264d646893e907610999679"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_modelica_jll.jl/releases/download/tree_sitter_modelica-v0.1.0+0/tree_sitter_modelica.v0.1.0.armv7l-linux-gnueabihf.tar.gz"
+[[tree_sitter_modelica]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "65aaedadf4939f4481de14b2f17564f325b70872"
+libc = "musl"
+os = "linux"
+
+    [[tree_sitter_modelica.download]]
+    sha256 = "92618753a322c75806c9fdfe7775f8c652f20003c8acf66573778b5394ba7c50"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_modelica_jll.jl/releases/download/tree_sitter_modelica-v0.1.0+0/tree_sitter_modelica.v0.1.0.armv7l-linux-musleabihf.tar.gz"
+[[tree_sitter_modelica]]
+arch = "i686"
+git-tree-sha1 = "03091e56e116e1ad19236e93cfdd2393e2f315e0"
+libc = "glibc"
+os = "linux"
+
+    [[tree_sitter_modelica.download]]
+    sha256 = "730061a37267b83f92ba9b61d6a95d85f0c4b53035a8c6f0af0ac0f4ba32939b"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_modelica_jll.jl/releases/download/tree_sitter_modelica-v0.1.0+0/tree_sitter_modelica.v0.1.0.i686-linux-gnu.tar.gz"
+[[tree_sitter_modelica]]
+arch = "i686"
+git-tree-sha1 = "790df207bb36f0f38c3bcb4f9e3bd11a9c996003"
+libc = "musl"
+os = "linux"
+
+    [[tree_sitter_modelica.download]]
+    sha256 = "46fde62b3e80d166fbefef62584ef61675e585ed3ddceec20d1ca7fe49f8015b"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_modelica_jll.jl/releases/download/tree_sitter_modelica-v0.1.0+0/tree_sitter_modelica.v0.1.0.i686-linux-musl.tar.gz"
+[[tree_sitter_modelica]]
+arch = "i686"
+git-tree-sha1 = "182ee7401fdc4a4e913265c5ba2dc08c720c695e"
+os = "windows"
+
+    [[tree_sitter_modelica.download]]
+    sha256 = "1aad49539e91fb3b754a55a46a4125d9ff61b1a5a064a88f06580928eb417f13"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_modelica_jll.jl/releases/download/tree_sitter_modelica-v0.1.0+0/tree_sitter_modelica.v0.1.0.i686-w64-mingw32.tar.gz"
+[[tree_sitter_modelica]]
+arch = "powerpc64le"
+git-tree-sha1 = "43128fa191c121a78fd6fef428e1728395b9c82c"
+libc = "glibc"
+os = "linux"
+
+    [[tree_sitter_modelica.download]]
+    sha256 = "a23af54d0ae63c49d0b9e641f303af8dc758d8bace5201f806959e5e57c5a45f"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_modelica_jll.jl/releases/download/tree_sitter_modelica-v0.1.0+0/tree_sitter_modelica.v0.1.0.powerpc64le-linux-gnu.tar.gz"
+[[tree_sitter_modelica]]
+arch = "riscv64"
+git-tree-sha1 = "87b0a5e3f60281423d6c38f33755114e63c5d3bb"
+libc = "glibc"
+os = "linux"
+
+    [[tree_sitter_modelica.download]]
+    sha256 = "8dbe3175a1b6b12ec0d30c5c1827e62447db40c6069181f7d167fce3c9eddff2"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_modelica_jll.jl/releases/download/tree_sitter_modelica-v0.1.0+0/tree_sitter_modelica.v0.1.0.riscv64-linux-gnu.tar.gz"
+[[tree_sitter_modelica]]
+arch = "x86_64"
+git-tree-sha1 = "b79cf40faad434c6751a59f48c701b5afe055ca7"
+os = "macos"
+
+    [[tree_sitter_modelica.download]]
+    sha256 = "9c9f97d2ee76af19e0b247e5b441f77d8d6cfba64908eab6d880f850ee4cadc2"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_modelica_jll.jl/releases/download/tree_sitter_modelica-v0.1.0+0/tree_sitter_modelica.v0.1.0.x86_64-apple-darwin.tar.gz"
+[[tree_sitter_modelica]]
+arch = "x86_64"
+git-tree-sha1 = "fec10cacf703cca0e9a215de070308bdc10163d3"
+libc = "glibc"
+os = "linux"
+
+    [[tree_sitter_modelica.download]]
+    sha256 = "3b956eba3901e69f9d4c1712bc9413aa0befc639321bdcc5d392a9a7c46d378c"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_modelica_jll.jl/releases/download/tree_sitter_modelica-v0.1.0+0/tree_sitter_modelica.v0.1.0.x86_64-linux-gnu.tar.gz"
+[[tree_sitter_modelica]]
+arch = "x86_64"
+git-tree-sha1 = "9afd382709260f2e3424254e993784e82603e653"
+libc = "musl"
+os = "linux"
+
+    [[tree_sitter_modelica.download]]
+    sha256 = "307e63633a220fa0b05097f7c098844f5ae47687b000d5795c2b170c691a6719"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_modelica_jll.jl/releases/download/tree_sitter_modelica-v0.1.0+0/tree_sitter_modelica.v0.1.0.x86_64-linux-musl.tar.gz"
+[[tree_sitter_modelica]]
+arch = "x86_64"
+git-tree-sha1 = "8bd61906bb28af47a46834b466abc33e6fc9fac7"
+os = "freebsd"
+
+    [[tree_sitter_modelica.download]]
+    sha256 = "ae3bd9e9d1a9a00dbe8ae0583344e8871a7378bc00a7969c6152c32d5c2e5664"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_modelica_jll.jl/releases/download/tree_sitter_modelica-v0.1.0+0/tree_sitter_modelica.v0.1.0.x86_64-unknown-freebsd.tar.gz"
+[[tree_sitter_modelica]]
+arch = "x86_64"
+git-tree-sha1 = "3040814502c8ae6ac145a0d6bdb497c0c93a95c2"
+os = "windows"
+
+    [[tree_sitter_modelica.download]]
+    sha256 = "217329272366392896dc65ab7dd01653b26db64ff68403ab07fa534bcf1e5da8"
+    url = "https://github.com/JuliaBinaryWrappers/tree_sitter_modelica_jll.jl/releases/download/tree_sitter_modelica-v0.1.0+0/tree_sitter_modelica.v0.1.0.x86_64-w64-mingw32.tar.gz"
